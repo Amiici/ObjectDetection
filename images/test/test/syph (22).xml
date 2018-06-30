@@ -1,0 +1,38 @@
+<annotation>
+	<folder>syphillis</folder>
+	<filename>syph (22).jpeg</filename>
+	<path>C:\Users\arint\Desktop\syphillis\syph (22).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>246</width>
+		<height>205</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sphyillis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>75</ymin>
+			<xmax>157</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>sphyillis</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>1</ymin>
+			<xmax>206</xmax>
+			<ymax>13</ymax>
+		</bndbox>
+	</object>
+</annotation>
