@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>Plasmodium Falciparum</folder>
+	<filename>MAL (111).jpg</filename>
+	<path>C:\Users\danie\Desktop\Temp\Plasmodium Falciparum\MAL (111).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>212</width>
+		<height>154</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Malaria</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>31</ymin>
+			<xmax>101</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Malaria</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>57</ymin>
+			<xmax>178</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>
